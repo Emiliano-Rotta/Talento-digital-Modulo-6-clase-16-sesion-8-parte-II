@@ -1,0 +1,32 @@
+{
+  "1": {
+    "auto": "ferrari",
+    "modelo": "f2014",
+    "asientos": 4
+  },
+  "081a2f6f-5705-47ce-a36a-486a30a45c96": {
+    "auto": "chevrolet",
+    "modelo": "xp400",
+    "asientos": "2"
+  },
+  "0f688006-223c-406b-a13c-ac848de07b78": {
+    "auto": "porsche",
+    "modelo": "prueba",
+    "asientos": "2"
+  },
+  "a2b996cb-b34e-47f7-95d7-20b027a47568": {
+    "auto": "porsche",
+    "modelo": "prueba",
+    "asientos": "2"
+  },
+  "598934ff-5e8a-4079-b17a-69aa1d3be20d": {
+    "auto": "porsche",
+    "modelo": "prueba",
+    "asientos": "2"
+  },
+  "7656eae2-9cf8-4f64-abcf-e0a9531f8a6e": {
+    "auto": "porsche",
+    "modelo": "prueba",
+    "asientos": "2"
+  }
+}
