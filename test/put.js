@@ -6,14 +6,14 @@ const { servidor } = require('../index')
 
 chai.use(chaiHttp)
 
-xdescribe('respuesta servidor POST',()=>{
+xdescribe('respuesta servidor PUT',()=>{
     it('responde al codigo 200 pasandole información por body',(done)=>{
         chai.request(servidor)
-        .post('/autos')
+        .put('/autos?id=40ff4f08-9886-4957-bbce-5d8bbe6f9a85')
         .send({
-            "auto":"porsche",
-            "modelo": "prueba",
-            "asientos": "2"
+            "auto":"Renault",
+            "modelo": "Clio",
+            "asientos": "5"
         })
         .end((error, respuesta)=>{
             chai.expect(respuesta).to.have.status(200)

@@ -9,43 +9,9 @@
     "modelo": "xp400",
     "asientos": "2"
   },
-  "0f688006-223c-406b-a13c-ac848de07b78": {
-    "auto": "porsche",
-    "modelo": "prueba",
-    "asientos": "2"
-  },
-  "a2b996cb-b34e-47f7-95d7-20b027a47568": {
-    "auto": "porsche",
-    "modelo": "prueba",
-    "asientos": "2"
-  },
-  "598934ff-5e8a-4079-b17a-69aa1d3be20d": {
-    "auto": "porsche",
-    "modelo": "prueba",
-    "asientos": "2"
-  },
-  "7656eae2-9cf8-4f64-abcf-e0a9531f8a6e": {
-    "auto": "porsche",
-    "modelo": "prueba",
-    "asientos": "2"
-  },
-  "4ee76f36-6dbe-4e48-a505-2eb04d6fa570": {
-    "auto": "porsche",
-    "modelo": "prueba",
-    "asientos": "2"
-  },
-  "32036b8d-5c3a-40b8-900b-b5ede9069268": {
-    "auto": "porsche",
-    "modelo": "prueba",
-    "asientos": "2"
-  },
-  "40ff4f08-9886-4957-bbce-5d8bbe6f9a85": {
-    "auto": "porsche",
-    "modelo": "prueba"
-  },
-  "4d6f114e-0355-4be1-8b14-da13ee065edd": {
-    "auto": "porsche",
-    "modelo": "prueba",
-    "asientos": "2"
+  "40ff4f08-9886-4957-bbce-5d8bbe6f9a": {
+    "auto": "Renault",
+    "modelo": "Clio",
+    "asientos": "5"
   }
 }
